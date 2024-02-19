@@ -9,21 +9,5 @@ Modular Code: The code is organized into a Python class (Pikachu) with methods f
 Requirements
 Python 3.x
 Turtle graphics library
-Usage
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/pikachu-turtle-drawing.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd pikachu-turtle-drawing
-Run the script:
-
-bash
-Copy code
-python pikachu_drawing.py
-Follow the on-screen instructions to draw Pikachu interactively.
 
